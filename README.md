@@ -1,6 +1,6 @@
 # Pong — 100 Days of Python (Day 22)
 
-A compact implementation of the classic Pong game written with Python's `turtle` module. Created as part of the "100 Days of Python" series (Day 22), this project demonstrates simple game loop mechanics, collision detection, and score handling using only the Python standard library.
+A compact implementation of the classic Pong game written with Python's `turtle` module. This project demonstrates simple game loop mechanics, collision detection, and score handling using only the Python standard library.
 
 ## Features
 
