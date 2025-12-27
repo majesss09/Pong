@@ -60,13 +60,3 @@ Add screenshots in a new `images/` folder and reference them here, for example:
 images/screenshot-1.png
 ```
 
-## License
-
-This repository does not include a license file. Add a `LICENSE` if you want to permit reuse (for example, the MIT license).
-
----
-
-If you want, I can:
-- add a `LICENSE` file (MIT suggested),
-- include screenshots (I can add placeholders and instructions), or
-- update `main.py` to print exact control bindings at startup.
