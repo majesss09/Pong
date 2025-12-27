@@ -45,18 +45,3 @@ Each component is kept small and focused so you can inspect and learn from indiv
 - `main.py` creates the screen and instances of `Paddle`, `Ball`, and the scoreboard, then enters a timed loop to update positions and detect collisions.
 - The `Ball` class handles edge bounces and paddle collisions. When a player misses, the ball resets and the scoreboard updates.
 
-## Contribution ideas / Roadmap
-
-- Add AI opponent for single-player mode.
-- Add sound effects for bounces and scoring.
-- Make the game window resizable and improve scaling.
-- Add a start menu and player name input.
-
-## Screenshots
-
-Add screenshots in a new `images/` folder and reference them here, for example:
-
-```
-images/screenshot-1.png
-```
-
